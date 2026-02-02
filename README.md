@@ -20,7 +20,7 @@ This project focuses on **capital growth and drawdown control**, answering a cri
 ## 🧠 The Kelly Criterion
 
 The Kelly formula determines the fraction of capital to bet:
->> f* = (bp − q) / b
+> f* = (bp − q) / b
 
 Where:
 - `p` = probability of winning
